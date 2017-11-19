@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MVPdemo</string>
+    <string name="navigation_drawer_open">drawer0pen</string>
+    <string name="navigation_drawer_close">drawerClose</string>
+    <string name="fab_description">选择特定日期</string>
+    <string name="loading_more">加载更多...</string>
+
+    <string name="timeline">timeline</string>
+    <string name="favorites">favorites</string>
+    <string name="info">info</string>
+
+    <string name="zhihu_daily">Zhihu Daily</string>
+    <string name="guokr_handpick">Guokr Handpick</string>
+    <string name="douban_moment">Douban Moment</string>
+
+</resources>
